@@ -1,4 +1,4 @@
-Keystone Engine
+Keystone Engine（Navicat激活方法）
 ==============
 
 [![Build Status](https://travis-ci.org/keystone-engine/keystone.svg?branch=master)](https://travis-ci.org/keystone-engine/keystone)
